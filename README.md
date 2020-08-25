@@ -3,11 +3,6 @@
 
 # Unit 19 React Homework: Employee Directory
 
-<img src="screenshot/20200207_174410.png">
-
-
-<img src="screenshot/20200207_165541.png">
-
 
 ## Overview
 
